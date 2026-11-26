@@ -1,1 +1,19 @@
-This is small scene project based on the video: https://www.youtube.com/watch?v=_a6kcSP8R1Y
+# Creek Landscape
+
+Unreal Engine project files, scenes and gameplay systems.
+
+## Open the project
+
+Open the `.uproject` file in a compatible Unreal Engine editor.
+
+## Included files
+
+- 1 Unreal project file(s)
+- 4 map file(s)
+- 622 asset file(s)
+
+## Demo status
+
+Source files are available. A verified playable demo is still required.
+
+Project documentation and notices are retained in [project notes](PROJECT_NOTES.md) and the source files.
